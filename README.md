@@ -1,5 +1,6 @@
 # Todo MVC
-MVC practice project
+Javascript user interface practice project.
+https://todo-redo-bingshaw.herokuapp.com
 
 ## Screenshots
 ![Example screenshot](./img/screenshot.png)
